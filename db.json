@@ -1,18 +1,18 @@
 {
   "users":[
       {
-        "id":1
-        "username":"chayanefan4537"
+        "id":1,
+        "username":"chayanefan4537",
         "deck":[1,5,9,12]
       },
       {
-        "id":2
-        "username":"wariosama"
+        "id":2,
+        "username":"wariosama",
         "deck":[2,4,7,12]
       },
       {
-        "id":3
-        "username":"motivationv"
+        "id":3,
+        "username":"motivationv",
         "deck":[3,6,10,15]
       },
     ],
