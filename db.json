@@ -19,7 +19,9 @@
       },
     ],
   "cards":[
-    "id":1,
-    "class":"common"
+    {
+      "id":1,
+      "class":"common"
+    }
   ]
 }
