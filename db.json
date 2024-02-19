@@ -1,7 +1,5 @@
 {
-  "users":{
-    "count":3
-    "results":[
+  "users":[
       {
         "id":1
         "username":"chayanefan4537"
@@ -18,10 +16,4 @@
         "deck":[3,6,10,15]
       },
     ],
-  "cards":[
-    {
-      "id":1,
-      "class":"common"
-    }
-  ]
 }
